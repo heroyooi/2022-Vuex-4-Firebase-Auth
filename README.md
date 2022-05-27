@@ -30,4 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Playlist
 
-[Vuex 4 & Firebase Auth Tutorial #6 - Actions & Async Code](https://www.youtube.com/watch?v=bUHVGPx6IMo&list=PL4cUxeGkcC9jveNu1TI0P62Dn9Me1j9tG&index=6)
+[Vuex 4 & Firebase Auth Tutorial #7 - Sign Up Action](https://www.youtube.com/watch?v=bUHVGPx6IMo&list=PL4cUxeGkcC9jveNu1TI0P62Dn9Me1j9tG&index=7)

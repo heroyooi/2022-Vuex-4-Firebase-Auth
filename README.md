@@ -30,4 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Playlist
 
-[Vuex 4 & Firebase Auth Tutorial #9 - Logout Action](https://www.youtube.com/watch?v=bUHVGPx6IMo&list=PL4cUxeGkcC9jveNu1TI0P62Dn9Me1j9tG&index=9)
+[Vuex 4 & Firebase Auth Tutorial #10 - Waiting for Auth to be Ready](https://www.youtube.com/watch?v=bUHVGPx6IMo&list=PL4cUxeGkcC9jveNu1TI0P62Dn9Me1j9tG&index=10)
